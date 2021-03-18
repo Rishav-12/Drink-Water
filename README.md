@@ -8,3 +8,5 @@ The script can also be scheduled to run automatically.
 ### Requirements
 * Python
 * Plyer module
+
+This project was inspired by a video from the CodeWithHarry YouTube channel
